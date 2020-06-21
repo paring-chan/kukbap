@@ -1,6 +1,9 @@
 itemlist = {
-    'nitro': {'value': 6000, 'name': '디스코드 니트로 1개월'},
-    'nitrocls': {'value': 6000, 'name': '디스코드 니트로 클래식 1개월'}
+    'nitro': {'value': 10000, 'name': '디스코드 니트로 1개월'},
+    'nitrocls': {'value': 6000, 'name': '디스코드 니트로 클래식 1개월'},
+    'nitroyr': {'value': 100000, 'name': '디스코드 니트로 1년'},
+    'nitroclsyr': {'value': 60000, 'name': '디스코드 니트로 클래식 1년'},
+    'vultr': {'value': 6000, 'name': 'VULTR 기본 요금으로 호스팅 1달'}
 }
 
 const value = document.getElementsByClassName('items')[0]
