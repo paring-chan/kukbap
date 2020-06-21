@@ -3,7 +3,8 @@ itemlist = {
     'nitrocls': {'value': 6000, 'name': '디스코드 니트로 클래식 1개월'},
     'nitroyr': {'value': 100000, 'name': '디스코드 니트로 1년'},
     'nitroclsyr': {'value': 60000, 'name': '디스코드 니트로 클래식 1년'},
-    'vultr': {'value': 6000, 'name': 'VULTR 기본 요금으로 호스팅 1달'}
+    'vultr': {'value': 6000, 'name': 'VULTR 기본 요금으로 호스팅 1달'},
+    'house': {'value': 300000000, 'name': '집'}
 }
 
 const value = document.getElementsByClassName('items')[0]
