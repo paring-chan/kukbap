@@ -1,8 +1,3 @@
-if (agent.indexOf("msie") != -1) {
-    alert("인터넷익스플로러 브라우저 죽어라!!!!");
-    self.close()
-}
-
 itemlist = {
     'nitro': {'value': 10000, 'name': '디스코드 니트로 1개월'},
     'nitrocls': {'value': 6000, 'name': '디스코드 니트로 클래식 1개월'},
