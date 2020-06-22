@@ -1,9 +1,9 @@
 itemlist = {
-    'nitro': {'value': 10000, 'name': '디스코드 니트로 1개월'},
-    'nitrocls': {'value': 6000, 'name': '디스코드 니트로 클래식 1개월'},
-    'nitroyr': {'value': 100000, 'name': '디스코드 니트로 1년'},
-    'nitroclsyr': {'value': 60000, 'name': '디스코드 니트로 클래식 1년'},
-    'vultr': {'value': 6000, 'name': 'VULTR 기본 요금으로 호스팅 1달'},
+    'ramen': {'value': 1500, 'name': '컵라면'},
+    'hamburger': {'value': 3000, 'name': '불고기 버거'},
+    'bigmac': {'value': 6000, 'name': '빅맥 버거'},
+    'nitroclsyr': {'value': 2000000, 'name': '노트북'},
+    'vultr': {'value': 200000, 'name': '핸드폰'},
     'house': {'value': 300000000, 'name': '집'}
 }
 
